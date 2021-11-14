@@ -3,7 +3,7 @@ import React from "react";
 function About() {
   return (
     <div>
-    <div className="abt" style={{paddingTop:"40px"}}>
+    <div className="abt" style={{paddingTop:"20px"}}>
    
     <div className="about">
       <div className="abthead"><h1 >Delivering Innovative Solutions for our Global Clients</h1></div> <br/>
@@ -41,7 +41,7 @@ function About() {
       </div>
     </div>
     </div>
-    <div style={{backgroundColor:"grey",color:"black",textAlign:"center"}}> 
+    <div style={{backgroundColor:"grey",color:"black",textAlign:"center",paddingTop:"20px"}}> 
     <p> © 2021 TectWorld - All Rights Reserved</p>
     </div>
 
