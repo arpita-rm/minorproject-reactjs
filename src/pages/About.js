@@ -6,8 +6,7 @@ function About() {
     <div className="abt" style={{paddingTop:"40px"}}>
    
     <div className="about">
-      
-       <div className="abthead"><h1 >Delivering Innovative Solutions for our Global Clients</h1></div> <br/>
+      <div className="abthead"><h1 >Delivering Innovative Solutions for our Global Clients</h1></div> <br/>
       <br/><br/>
       <p > Established in 2015, United Communication Services has quickly grown 
       to become a leading Network and Electrical Services provider in the United States. 
