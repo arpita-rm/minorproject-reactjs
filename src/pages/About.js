@@ -6,7 +6,7 @@ function About() {
     <div className="abt" style={{paddingTop:"40px"}}>
    
     <div className="about">
-      <h1 style={{textalign:"left", color:"black", paddingTop:"20px"}}>About</h1>
+      
        <div className="abthead"><h1 >Delivering Innovative Solutions for our Global Clients</h1></div> <br/>
       <br/><br/>
       <p > Established in 2015, United Communication Services has quickly grown 
