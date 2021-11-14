@@ -91,7 +91,7 @@
 }
 .abtvalues{
   width:1000px;
-  height:340vh;
+  height:300vh;
   transition: width 1s;
   transition-delay: 0.5s;
   transition-timing-function:linear;
