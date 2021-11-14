@@ -3,9 +3,9 @@ import React from "react";
 function About() {
   return (
     <div>
-    <div className="abt">
+    <div className="abt" style={{paddingTop:"40px"}}>
+     <h1 style={{textalign:"left", color:"black", paddingTop:"20px"}}>About</h1>
     <div className="about">
-    <h1 style={{textalign:"left", color:"black", paddingTop:"20px"}}>About</h1>
        <div className="abthead"><h1 >Delivering Innovative Solutions for our Global Clients</h1></div> <br/>
       <br/><br/>
       <p > Established in 2015, United Communication Services has quickly grown 
