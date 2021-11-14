@@ -48,22 +48,22 @@
   background-size:cover;
 }
 .about {
-  
   color:#fff;
   display: flex;
   flex-direction: column; 
   justify-content: center;
-  height:200vh;
+  height:120vh;
   width: 1200px;
   align-items: center;
   padding-left:40px;
   padding-right:40px;
   font-size: 20px;
   margin-left:240px;
-  padding-top: 60px; 
+  /* padding-top: 10px; */
   background-position:center;
   background-repeat:repeat;
   background-size:cover;
+  
   
 }
 
